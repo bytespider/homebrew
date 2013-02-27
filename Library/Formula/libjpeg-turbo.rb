@@ -5,7 +5,7 @@ require 'formula'
 
 class LibjpegTurbo < Formula
   homepage 'http://libjpeg-turbo.virtualgl.org/'
-  url 'http://garr.dl.sourceforge.net/project/libjpeg-turbo/1.2.1/libjpeg-turbo-1.2.1.tar.gz'
+  url 'http://downloads.sourceforge.net/project/libjpeg-turbo/1.2.1/libjpeg-turbo-1.2.1.tar.gz'
   sha1 'a4992e102c6d88146709e8e6ce5896d5d0b5a361'
 
   depends_on :automake
